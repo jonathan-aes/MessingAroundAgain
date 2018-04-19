@@ -20,6 +20,7 @@ int main() {
 
 	app.startProgram();
 
+	cout << "Hello world!\n";
 	// std::cout << tree.search('m') << "\n";
 
 	return 0;
