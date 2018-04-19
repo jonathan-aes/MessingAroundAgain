@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jonat\documents\cpts122\pa7_morse\pa7_morse\translatorapp.h(20): warning C4018: '<': signed/unsigned mismatch
+  PA7_Morse.vcxproj -> C:\Users\jonat\Documents\cpts122\PA7_Morse\Debug\PA7_Morse.exe
+  PA7_Morse.vcxproj -> C:\Users\jonat\Documents\cpts122\PA7_Morse\Debug\PA7_Morse.pdb (Full PDB)
